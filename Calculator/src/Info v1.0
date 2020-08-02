@@ -1,0 +1,12 @@
+THIS IS A WIP
+The calculator is not finished.
+What is done:
+-Interface
+-Receiving User Data 
+
+What needs to be done:
+-Use button input to actually calculate as well as direct modification of the text field
+>Proper math sign order
+>Use of decimal number
+>Use of brackets as expected
+-Information screen in the application
